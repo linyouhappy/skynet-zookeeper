@@ -1,7 +1,7 @@
 # skynet-zookeeper客户端
 	专为skynet开发的zookeeper客户端，版本：zookeeper-3.4.13
 ## Test
-	1.先启动zook服务器
+	1.先启动zookeeper服务器
 	2.配置
 	--Linux动态库，放入到luaclib文件夹
 	--(已提供源文件luaclib-src/lua-zookeeper.c，参考MakeFile配置)
